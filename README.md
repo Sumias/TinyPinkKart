@@ -1,2 +1,2 @@
-# tinypinkcar
+# TinyPinkKart
 Sumia, Shams, Husniyah, Laura
